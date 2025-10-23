@@ -8,8 +8,7 @@
   <span>📍 Italy (Remote) | 🌐 <a href="https://www.linkedin.com/in/girlane-domingues/">LinkedIn</a> ·
     <a href="https://github.com/GirlaneSD/gi-cv">Docs-as-Code CV</a>
   </span><br/>
-  <em>Documentation-as-Code CV</em>
-</p>
+ </p>
 
 <p align="center">
   <a href="https://github.com/GirlaneSD/gi-cv/releases/latest/download/Girlane_Domingues_CV.pdf">
