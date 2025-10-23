@@ -2,7 +2,7 @@
 My professional CV in Markdown: concise, structured, and continuously improved using a doc-as-code workflow.
 # Girlane Domingues
 **Senior Data Analytics Consultant – Business Insights (EMEA) | Dynatrace**  
- Italy (Remote) | [LinkedIn]((https://www.linkedin.com/in/girlane-domingues/)
+ Italy (Remote) | [LinkedIn](https://www.linkedin.com/in/girlane-domingues/)
 
 ---
 
