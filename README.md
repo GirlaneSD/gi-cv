@@ -4,7 +4,7 @@
 
 <p align="center" style="background:#f5f5f5;padding:20px;border-radius:10px;">
   <b style="font-size:28px;">👩‍💻 Girlane Domingues</b><br/>
-  <span style="font-size:18px;">Senior Data Analytics Consultant – Business Insights (EMEA) | Dynatrace</span><br/>
+  <span style="font-size:18px;">Dynatrace</span><br/>
   <span>📍 Italy (Remote) | 🌐 <a href="https://www.linkedin.com/in/girlane-domingues/">LinkedIn</a></span><br/>
   <em>Documentation-as-Code CV</em>
 </p>
