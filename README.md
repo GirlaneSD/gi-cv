@@ -92,7 +92,7 @@ Data-driven Storytelling • SaaS & Cloud Observability
 ---
 
 ## Download (PDF)
-- The latest PDF is attached to the **latest Release** of this repository, or produced automatically by GitHub Actions.
+- The latest PDF is attached to the **latest Release** of this repository.
 
 ---
 
