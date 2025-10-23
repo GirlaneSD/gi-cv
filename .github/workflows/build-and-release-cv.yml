@@ -1,0 +1,44 @@
+name: Build and Release CV PDF (wkhtmltopdf)
+
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - "README.md"
+      - ".github/workflows/build-and-release-cv.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc + wkhtmltopdf
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc wkhtmltopdf
+
+      - name: Build PDF from README.md
+        run: |
+          mkdir -p dist
+          pandoc README.md \
+            --from=gfm \
+            --to=html5 \
+            --pdf-engine=wkhtmltopdf \
+            -V margin-top=20mm -V margin-bottom=20mm \
+            -V margin-left=15mm -V margin-right=15mm \
+            -o dist/Girlane_Domingues_CV.pdf
+
+      - name: Create or Update GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: "Latest CV"
+          body: "Automatically generated Docs-as-Code CV (HTML→PDF build)."
+          files: dist/Girlane_Domingues_CV.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
