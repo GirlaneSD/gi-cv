@@ -95,7 +95,7 @@ Data-driven Storytelling • SaaS & Cloud Observability
 - The latest PDF is attached to the **latest Release** of this repository, or produced automatically by GitHub Actions.
 
 ---
-
+ 
 <p align="center">
   Learning • Evolving • Documenting<br/>
   <sub>Built with Markdown · Docs-as-Code · Agile & Lean Six Sigma mindset</sub>
