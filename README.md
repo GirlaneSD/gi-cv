@@ -50,8 +50,8 @@ Partner with global customers to optimize Digital Experience Monitoring (DEM) an
 
 **Key Achievements**
 - Spearheaded cross-functional collaboration to enhance observability strategies, resulting in stronger client engagement and accelerated DEM adoption.  
-- Introduced GenAI-powered workflows and Copilot prompts to optimize knowledge creation, translation, and process flow.  
-- Awarded the **“Engage with Purpose”** recognition for contributions to client success, collaboration, and process improvement (July 2024).  
+- Introduced GenAI-powered workflows and Copilot Agents to optimize knowledge creation, translation, and process flow.  
+- Awarded the **“Engage with Purpose”** recognition for contributions to client success, collaboration, and process improvement.  
 - Supported customer enablement through structured presentations, value stories, and use-case documentation — connecting data, performance, and business outcomes.  
 - Advocated Agile principles in project execution, enabling iterative improvement, shared ownership, and faster knowledge dissemination.  
 
@@ -75,8 +75,10 @@ Led strategic business development and operational improvement initiatives to ex
 **April 2004 – December 2021**
 
 Managed financial operations at the *Programa Monumenta*, overseeing budgets ranging from US$125M to US$810M and ensuring compliance with national and international financial standards.  
+Implemented process digital transformation initiatives across the financial cycle, reducing operational and annual financial costs to the IADB by over 45% through automation, workflow optimization, and enhanced data transparency.  
 
 **Key Achievements**
+- Led the modernization of financial workflows, introducing digital tools that increased traceability and improved budget control across multiple municipalities.  
 - Coordinated financial and process documentation in compliance with national and international regulations.  
 - Partnered with **UNESCO**, **IADB**, and municipalities to align financial reporting and process governance.  
 - Delivered transparent reporting to the National Treasury Secretariat and optimized documentation workflows for audit readiness.  
