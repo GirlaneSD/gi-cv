@@ -28,7 +28,6 @@ It demonstrates my focus on **process optimization**, **content strategy**, and 
 ---
 
 ## Curriculum Vitae (Markdown)
-> Replace this section with your CV. The version below is ready to use — update any details as needed.
 
 ### Highlights
 Passionate about optimizing processes and documentation from both technical and business perspectives — enabling clarity, collaboration, and continuous improvement through GenAI innovation, Agile practices, and Lean Six Sigma principles.
