@@ -1,4 +1,4 @@
-name: Build and Release CV PDF (wkhtmltopdf)
+name: Build and Release CV PDF (wkhtmltopdf with date)
 
 on:
   push:
@@ -13,6 +13,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,15 +23,18 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc wkhtmltopdf
 
-      - name: Build PDF from README.md
+      - name: Build PDF from README.md (with timestamp footer)
         run: |
           mkdir -p dist
+          build_date=$(date '+%Y-%m-%d')
+          echo "<p style='text-align:center;font-size:10px;color:gray;'>Generated on ${build_date}</p>" >> footer.html
           pandoc README.md \
             --from=gfm \
             --to=html5 \
             --pdf-engine=wkhtmltopdf \
-            -V margin-top=20mm -V margin-bottom=20mm \
+            -V margin-top=20mm -V margin-bottom=25mm \
             -V margin-left=15mm -V margin-right=15mm \
+            --include-after-body=footer.html \
             -o dist/Girlane_Domingues_CV.pdf
 
       - name: Create or Update GitHub Release
@@ -38,7 +42,7 @@ jobs:
         with:
           tag_name: latest
           name: "Latest CV"
-          body: "Automatically generated Docs-as-Code CV (HTML→PDF build)."
+          body: "Automatically generated Docs-as-Code CV (HTML→PDF build with timestamp)."
           files: dist/Girlane_Domingues_CV.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
