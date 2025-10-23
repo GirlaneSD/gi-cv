@@ -6,7 +6,7 @@
   <b style="font-size:28px;">👩‍💻 Girlane Domingues</b><br/>
   <span style="font-size:18px;">Dynatrace</span><br/>
   <span>📍 Italy (Remote) | 🌐 <a href="https://www.linkedin.com/in/girlane-domingues/">LinkedIn</a> ·
-    <a href="https://github.com/GirlaneSD/gi-cv">Docs-as-Code CV</a>
+     🔗 <a href="https://github.com/GirlaneSD/gi-cv">Docs-as-Code CV</a>
   </span><br/>
  </p>
 
