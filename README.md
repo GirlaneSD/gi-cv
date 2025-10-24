@@ -36,7 +36,7 @@ It demonstrates my focus on **process optimization**, **content strategy**, and 
 ## 💼 Curriculum Vitae
 
 ### 🧭 Highlights
-Passionate about optimizing processes and documentation from both technical and business perspectives — enabling clarity, collaboration, and continuous improvement through GenAI innovation, Agile practices, and Lean Six Sigma principles.
+Passionate about optimizing processes and documentation from technical and business perspectives> enabling clarity, collaboration, and continuous improvement through GenAI innovation, Agile practices, and Lean Six Sigma principles.
 
 ---
 
@@ -46,11 +46,11 @@ Passionate about optimizing processes and documentation from both technical and 
 **Dynatrace | Italy (Remote)**  
 **November 2023 – Present**
 
-Partner with global customers to optimize Digital Experience Monitoring (DEM) and translate telemetry into business value. Drive cross-team collaboration to deliver data-informed insights, structured documentation, and scalable enablement materials supporting adoption and product understanding across technical and business stakeholders.
+Partner with global customers to optimize Digital Experience Monitoring (DEM) and transform telemetry into business value. Drive cross-team collaboration to deliver data-informed insights, structured documentation, and scalable enablement materials supporting adoption and product understanding across technical and business stakeholders.
 
 **Key Achievements**
 - Spearheaded cross-functional collaboration to enhance observability strategies, resulting in stronger client engagement and accelerated DEM adoption.  
-- Introduced GenAI-powered workflows and Copilot Agents to optimize knowledge creation, translation, and process flow.  
+- Introduced GenAI-powered workflows and Copilot Agents to optimize knowledge creation, and process flow.  
 - Awarded the **“Engage with Purpose”** recognition for contributions to client success, collaboration, and process improvement.  
 - Supported customer enablement through structured presentations, value stories, and use-case documentation — connecting data, performance, and business outcomes.  
 - Advocated Agile principles in project execution, enabling iterative improvement, shared ownership, and faster knowledge dissemination.  
@@ -64,9 +64,9 @@ Partner with global customers to optimize Digital Experience Monitoring (DEM) an
 Led strategic business development and operational improvement initiatives to expand into EMEA and APAC markets. Applied Lean Six Sigma methods to streamline logistics, supplier management, and client communications.
 
 **Key Achievements**
-- Achieved a **30% revenue increase** through data-driven market expansion and client acquisition strategies.  
-- Reduced supply chain costs by 15% and lead times by 20% by applying Lean Six Sigma process improvement tools.  
-- Developed multilingual product documentation and training materials to support distributors and internal teams.  
+- Increased revenue by 30% through strategic market expansion and client acquisition.  
+- Reduced supply chain costs by 15% and lead times by 20%.  
+- Developed multilingual product documentation and training materials.  
 
 ---
 
@@ -78,10 +78,10 @@ Managed financial operations at the *Programa Monumenta*, overseeing budgets ran
 Implemented process digital transformation initiatives across the financial cycle, reducing operational and annual financial costs to the IADB by over 45% through automation, workflow optimization, and enhanced data transparency.  
 
 **Key Achievements**
-- Led the modernization of financial workflows, introducing digital tools that increased traceability and improved budget control across multiple municipalities.  
+- Modernized financial workflows, improving traceability and budget control across municipalities.  
 - Coordinated financial and process documentation in compliance with national and international regulations.  
 - Partnered with **UNESCO**, **IADB**, and municipalities to align financial reporting and process governance.  
-- Delivered transparent reporting to the National Treasury Secretariat and optimized documentation workflows for audit readiness.  
+- Delivered transparent financial reporting and optimized document management for audit readiness.  
 
 ---
 
@@ -93,8 +93,8 @@ Supported compliance and investor communications for a publicly listed telecommu
 
 **Key Achievements**
 - Maintained transparent financial documentation and disclosures in compliance with **SEC**, **CVM**, and **NYSE** standards.  
-- Published quarterly results and reports through digital channels, ensuring clarity and accessibility.  
-- Provided analytical insights to **C-level executives and members of the Financial & Administrative Board**.  
+- Published quarterly and annual results and reports, ensuring clarity and accessibility.  
+- Provided analytical insights to C-level executives and the Financial & Administrative Board.  
 
 ---
 
@@ -108,7 +108,7 @@ Supported compliance and investor communications for a publicly listed telecommu
 
 ## 🪴 Certifications
 
-- Dynatrace DEM & Business Analytics Specialist *(Expected July 2025)*  
+- Dynatrace DEM & Business Analytics Specialist *(July 2025)*  
 - Digital Transformation – UC Berkeley, Haas School *(May 2025)*  
 - Lean Six Sigma Green Belt – Six Sigma Global Institute  
 - Lean Six Sigma Yellow Belt – Six Sigma Global Institute  
